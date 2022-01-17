@@ -1,0 +1,17 @@
+.nav{
+    background-color: rgb(238, 12, 12);
+    padding: 4px;
+}
+
+.nav{
+    position: sticky;
+     top: 0px;
+     left: 0px;
+     width: 200px;
+ 
+ }
+ body{
+    overflow: scroll;
+    background-color: lightcoral;
+    
+ }
